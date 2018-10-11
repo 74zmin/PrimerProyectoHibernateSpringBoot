@@ -43,7 +43,8 @@ public class VehiculoTest {
 	@Test
 	public void testGuardarVehiculoConAccesorios() {
 		
-		Accesorio accesorio= new Accesorio("Aleron");
+		Accesorio accesorio=
+				new Accesorio("Aleron");
 	}
 	
 	
